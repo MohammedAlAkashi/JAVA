@@ -2,7 +2,6 @@
   {
     "name": "iPhone 15 Pro",
     "image": "https://www.apple.com/v/iphone-15-pro/c/images/overview/contrast/iphone_15pro__3nx4u28gc026_large.jpg",
-    "price": "$999",
     "details": [
       "A17 Pro chip with 6-core GPU",
       "Pro camera system",
@@ -12,11 +11,20 @@
   {
     "name": "iPhone 15",
     "image": "https://www.apple.com/v/iphone-15-pro/c/images/overview/contrast/iphone_15__dthdw40fq0wi_large.jpg",
-    "price": "$799",
     "details": [
       "A16 Bionic chip with 5-core GPU",
       "Advanced dual-camera system",
       "Up to 26 hours video playback"
+    ]
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "image": "https://images.ctfassets.net/evnrpfa1vdk4/19ppXPEmEtAWZfb8eBcIdJ/94a86c4f021984f4ae87d1ce69363cf4/iPhone_15_Pro_Max_Natural_Titanium_PDP_Image_Position-1__CAEN-copy.png",
+    "details": [
+      "256 / 512 GB Memory",
+      "A17 Pro chip with 6-core GPU",
+      "Pro camera system",
+      "Up to 29 hours video playback"
     ]
   }
 ]
