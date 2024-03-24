@@ -1,7 +1,7 @@
 [
   {
     "name": "iPhone 15 Pro Max",
-    "colors": ["Black", "Silver", "Natural Titanium"],
+    "colors": ["Black", "Silver", "Natural Titanium", "Space Gray", "Gold", "Midnight Green", "Blue"],
     "image": "https://images.ctfassets.net/evnrpfa1vdk4/19ppXPEmEtAWZfb8eBcIdJ/94a86c4f021984f4ae87d1ce69363cf4/iPhone_15_Pro_Max_Natural_Titanium_PDP_Image_Position-1__CAEN-copy.png",
     "details": [
       "256 / 512 GB Memory",
@@ -12,6 +12,7 @@
   },
   {
     "name": "iPhone 15 Pro",
+    "colors": ["Space Gray", "Gold", "Midnight Green", "Blue"],
     "image": "https://www.apple.com/v/iphone-15-pro/c/images/overview/contrast/iphone_15pro__3nx4u28gc026_large.jpg",
     "details": [
       "A17 Pro chip with 6-core GPU",
@@ -21,6 +22,7 @@
   },
   {
     "name": "iPhone 15 Plus",
+    "colors": ["Space Gray", "Silver", "Gold"],
     "image": "https://www.jump.ca/cdn/shop/files/iphone15-black-front_6b00b300-b25b-4287-95b0-b2c06dbf5a4c.png?v=1695054877",
     "details": [
       "Super Retina XDR display",
@@ -30,6 +32,7 @@
   },
   {
     "name": "iPhone 15",
+    "colors": ["Space Gray", "Silver", "Gold"],
     "image": "https://www.apple.com/v/iphone-15-pro/c/images/overview/contrast/iphone_15__dthdw40fq0wi_large.jpg",
     "details": [
       "A16 Bionic chip with 5-core GPU",
@@ -39,6 +42,7 @@
   },
   {
     "name": "iPhone 14 Pro Max",
+    "colors": ["Graphite", "Gold", "Silver"],
     "image": "https://images.ctfassets.net/vx12w8gtks6f/2x83kiaQ75l3kt3g5G9TBL/83dcfbc2aa2e3d10393643c7d0364435/4_PEP_iphone14_ProMax_Family_Preorder_EN.png?w=700&q=80",
     "details": [
       "6.7-inch Super Retina XDR display featuring Always-On and ProMotion.",
@@ -49,6 +53,7 @@
   },
   {
     "name": "iPhone 14 Pro",
+    "colors": ["Graphite", "Gold", "Silver"],
     "image": "https://ghost-armor.com/media/catalog/product/cache/6b6aa82be6a613141195d392706ff0dd/i/p/iphone_14_pro.png",
     "details": [
       "A16 Bionic chip",
@@ -58,6 +63,7 @@
   },
   {
     "name": "iPhone 14",
+    "colors": ["Space Gray", "Silver", "Gold"],
     "image": "https://pngimg.com/d/iphone_14_PNG20.png",
     "details": [
       "A15 Bionic chip",
