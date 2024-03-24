@@ -1,6 +1,15 @@
 [  
   {
-    "name": "Apple iPad 10th",
+    "name": "Apple iPad Pro",
+    "image": "https://github.com/MohammedAlAkashi/JAVA/blob/main/devices/iPhone/download.png?raw=true",
+    "details": [
+      "12MP Ultra Wide front camera",
+      "ProMotion technology",
+      "USB‑C connector with support for Thunderbolt/USB 4"
+    ]
+  },
+  {
+    "name": "Apple iPad 10th gen",
     "image": "https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltcbbf96e864397395/6581e25c1c5d7cc8f90f0630/computing-20231220-feature-fg-apple-jbp-ipad-10th-gen-carousel-xs.png?width=50p&quality=80&auto=webp",
     "details": [
       "10.9-inch Liquid Retina display",
